@@ -1,3 +1,0 @@
-#define IDC_STATIC -1
-
-#define IDI_TRAYICON 1101
